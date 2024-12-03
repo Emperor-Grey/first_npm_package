@@ -1,6 +1,6 @@
 function hello(message = 'hello world', logFunction = true) {
   if (logFunction) {
-    console.log(testing);
+    console.log(message);
   }
   return message;
 }

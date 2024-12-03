@@ -1,6 +1,6 @@
 {
   "name": "hw_print_package",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "A simple Node.js package to print 'Hello, World!' to the console.",
   "keywords": [
     "hello-world",
