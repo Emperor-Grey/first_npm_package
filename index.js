@@ -1,6 +1,8 @@
-function testing() {
-  console.log(testing);
-  return 'hello world';
+function hello(message = 'hello world', logFunction = true) {
+  if (logFunction) {
+    console.log(testing);
+  }
+  return message;
 }
 
-module.exports = testing;
+module.exports = hello;

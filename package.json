@@ -1,9 +1,24 @@
 {
   "name": "hw_print_package",
-  "version": "1.0.0",
-  "description": "A ",
+  "version": "2.0.0",
+  "description": "A simple Node.js package to print 'Hello, World!' to the console.",
+  "keywords": [
+    "hello-world",
+    "print",
+    "nodejs",
+    "example-package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/Emperor-Grey/first_npm_package#readme",
+  "bugs": {
+    "url": "https://github.com/Emperor-Grey/first_npm_package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emperor-Grey/first_npm_package.git"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "King Grey kinggrey9959@gmail.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
