@@ -1,6 +1,6 @@
 {
   "name": "hw_print_package",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A simple Node.js package to print 'Hello, World!' to the console.",
   "keywords": [
     "hello-world",
@@ -9,7 +9,7 @@
     "example-package",
     "tutorial"
   ],
-  "homepage": "https://github.com/Emperor-Grey/first_npm_package#readme",
+  "homepage": "https://github.com/Emperor-Grey/first_npm_package/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/Emperor-Grey/first_npm_package/issues"
   },
